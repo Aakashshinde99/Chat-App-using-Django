@@ -144,4 +144,4 @@ CHANNEL_LAYERS = {
 
 #DJANGO_SECRET_KEY=3=6+lq2=lz8)=l^xu7+ta4c)n1nk04i+3&oxkbafp9b&f%5u4n
 
-ALLOWED_HOSTS = ["chat-app-using-django.onrender.com", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["*"]
